@@ -3,3 +3,4 @@
 # DSA tut7 <img width="541" height="217" alt="image" src="https://github.com/user-attachments/assets/71c20d50-cb58-4166-ae94-ebe14f5e6edb" />
 # DSA tut8 <img width="197" height="140" alt="image" src="https://github.com/user-attachments/assets/388d5ce6-c8b1-44b2-bc46-419edc8d5a8e" />
 # DSA tut9 <img width="172" height="186" alt="image" src="https://github.com/user-attachments/assets/7aa29876-eabd-439f-a7c3-3d2cd85a0fa5" />
+# DAS tut10 <img width="2940" height="1424" alt="image" src="https://github.com/user-attachments/assets/9208e97e-6869-4f22-bd83-37ea7968c2a5" />
